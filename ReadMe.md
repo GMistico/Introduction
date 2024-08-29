@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduated in Mechatronics Engineering, currently pursuing an MBA in Data Science, and with a career focused on Data, what truly defines me is my curiosity and passion for challenges.<br><br>I'm currently working as a Data Analyst<br>I'm searching for Data Science Projects<br>
+Graduated in Mechatronics Engineering, currently pursuing an MBA in Data Science, and with a career focused on Data, what truly defines me is my curiosity and passion for challenges.<br><br>I'm currently working as a Data Analyst and searching for Data Science Projects<br>
 
 
 ## 🌐 Socials:
